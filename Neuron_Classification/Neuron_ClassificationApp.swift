@@ -11,7 +11,7 @@ import SwiftUI
 struct Neuron_ClassificationApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            NeuronClassificationView()
         }
     }
 }
